@@ -1,0 +1,1 @@
+You have to change the permissions for the shell scripts before they will execute. You will also need to ensure your professor has the 'Files' page open in the course page because this script uses that page to work. If your professor doesn't have this page open or active, the script will error as your SISNUM wont have the proper credentials for you to view it. 
